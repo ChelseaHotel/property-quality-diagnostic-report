@@ -1,0 +1,4 @@
+interface:
+  display_name: "物业品质诊断报告"
+  short_description: "将品质整改明细转换为可审计、可脱敏的离线 HTML 报告"
+  default_prompt: "使用 $property-quality-diagnostic-report 预检这份物业品质整改 Excel，并默认完整保留源文件业务信息生成离线 HTML 诊断报告。"

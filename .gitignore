@@ -1,0 +1,17 @@
+outputs/
+*.xlsx
+*.xls
+*.csv
+*.pdf
+*.png
+*.jpg
+*.jpeg
+!assets/readme/report-full.png
+!assets/readme/dashboard.png
+!assets/readme/risk-analysis.png
+!assets/readme/problem-list.png
+.env
+*.local.json
+__pycache__/
+*.pyc
+node_modules/
