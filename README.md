@@ -137,10 +137,10 @@ AI Agent 会协助完成：
 
 ### AI Agent 使用方式
 
-仓库发布后，将 `<GitHub用户名>` 替换为实际仓库所有者：
+通过 Skills CLI 安装：
 
 ```bash
-npx skills add <GitHub用户名>/property-quality-diagnostic-report
+npx skills add ChelseaHotel/property-quality-diagnostic-report
 ```
 
 然后上传 Excel 并调用：
